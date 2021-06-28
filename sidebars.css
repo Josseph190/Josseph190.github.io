@@ -14,7 +14,7 @@ main {
   height: -webkit-fill-available;
   max-height: 100vh;
   overflow-x: auto;
-  overflow-y: hidden;
+  
 }
 
 .b-example-divider {
@@ -96,6 +96,8 @@ main {
   user-select: none;
 }
 
+
+  
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
